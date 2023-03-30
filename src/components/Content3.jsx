@@ -9,7 +9,7 @@ function Content3() {
                     <li class="content3__container__list__item" id="opacity">Then, I became Site Manager in the renovation of a 6-storey Parisian building ..</li>
                     <li class="content3__container__list__item" id="opacity">.. (without elevator)</li>
                     <li class="content3__container__list__item" id="opacity">I was in charge of the complete management of the site</li>
-                    <li class="content3__container__list__item" id="opacity">Team management, safety, ordering of materials, site meeting and quality of works</li>
+                    <li class="content3__container__list__item" id="content3_4">Team management, safety, ordering of materials, site meeting and quality of works</li>
                   </ul>
                 </div>
             </div>

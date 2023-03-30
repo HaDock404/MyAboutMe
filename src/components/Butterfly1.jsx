@@ -1,9 +1,9 @@
-import '../styles/butterfly.css'
+import '../styles/butterfly1.css'
 
-function Butterfly() {
+function Butterfly1() {
     return (
-        <div class="frameBox">
-            <div class="frameAnimation">
+        <div id="frameBox1">
+            <div id="frameAnimation1">
                 <svg width="800" height="100" viewBox="0 0 800 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M58.5004 73.9997C56.4996 76.6413 50.3841 72.8349 44.0004 67.9997C37.6167 63.1646 30.9996 57.6412 33.0004 54.9997C35.0011 52.3582 41.6163 55.6648 48 60.5C54.3837 65.3352 60.5012 71.3582 58.5004 73.9997Z" fill="#3951A7"/>
                     <path d="M79.6312 52.0965C76.0062 58.7448 69.5663 62.2253 65.2471 59.8703C60.9279 57.5154 60.365 50.2167 63.9899 43.5684C67.6149 36.92 70.6808 36.145 75 38.5C79.3192 40.855 83.2561 45.4481 79.6312 52.0965Z" fill="#5D70D8"/>
@@ -153,4 +153,4 @@ function Butterfly() {
     )
 }
 
-export default Butterfly
+export default Butterfly1

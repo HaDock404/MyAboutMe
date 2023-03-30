@@ -10,7 +10,7 @@ const StyledGlobalStyle = createGlobalStyle`
         overflow-x: hidden;
         position: relative;
         background-color: #56A926;
-        height: 5000vh;
+        height: 2500vh;
         font-family: 'Chewy', cursive;
         animation: bg 1s linear;
         animation-play-state: paused;

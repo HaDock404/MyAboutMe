@@ -936,8 +936,8 @@ function Picture() {
                     <circle id="Ellipse 83" cx="1058" cy="804" r="3" fill="#45574C"/>
                     <path id="vitrelumiere" d="M1050 813H1066L1062 833H1054L1050 813Z" fill="#C8E9F0"/>
                     <path id="Rectangle 402" d="M1054.5 806H1061.5L1066 813H1050L1054.5 806Z" fill="#45574C"/>
-                    </g>
-                    <g id="lanterne_2">
+                </g>
+                <g id="lanterne_2">
                     <rect id="Rectangle 400_2" x="1364.5" y="836" width="5" height="99" fill="#45574C"/>
                     <path id="Ellipse 79_2" d="M1375.5 929.5C1375.5 936.68 1371.14 935.5 1367 935.5C1363 935.5 1358 936.68 1358 929.5C1358 922.32 1362.86 909 1367 909C1371.14 909 1375.5 922.32 1375.5 929.5Z" fill="#45574C"/>
                     <ellipse id="Ellipse 80_2" cx="1367" cy="839" rx="6.5" ry="3" fill="#45574C"/>
@@ -946,7 +946,7 @@ function Picture() {
                     <circle id="Ellipse 83_2" cx="1367" cy="804" r="3" fill="#45574C"/>
                     <path id="vitrelumiere_2" d="M1359 813H1375L1371 833H1363L1359 813Z" fill="#C8E9F0"/>
                     <path id="Rectangle 402_2" d="M1363.5 806H1370.5L1375 813H1359L1363.5 806Z" fill="#45574C"/>
-                    </g>
+                </g>
                     <rect id="filtrenuit" y="1" width="1512" height="981" fill="#0A1D41" fill-opacity="0.74"/>
                     <rect id="fenetre1" x="849" y="757" width="42" height="54" fill="#CEEBED"/>
                     <rect id="Rectangle 194" x="849" y="774" width="42" height="3" fill="#2B7D7B"/>
@@ -964,7 +964,7 @@ function Picture() {
                     <rect id="Rectangle 438" x="1488" y="3" width="25" height="981" fill="white"/>
                     <rect id="Rectangle 439" y="25" width="25" height="1512" transform="rotate(-90 0 25)" fill="white"/>
                     <rect id="Rectangle 440" y="982" width="25" height="1512" transform="rotate(-90 0 982)" fill="white"/>
-                    </g>
+                </g>
                     <defs>
                     <filter id="filter0_d_204_2713" x="1000.5" y="764" width="117" height="117" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
                     <feFlood flood-opacity="0" result="BackgroundImageFix"/>

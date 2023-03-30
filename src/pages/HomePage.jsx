@@ -12,10 +12,17 @@ import Machine from "../components/Machine";
 import Toolbox from "../components/Toolbox";
 import Content2 from "../components/Content2";
 import Flat from "../components/Flat";
-import Picture from "../components/Picture";
+import Picture2 from "../components/Picture2";
 import Content3 from "../components/Content3";
 import Content4 from "../components/Content4";
-import Butterfly from "../components/Butterfly";
+import Content5 from "../components/Content5";
+import Butterfly1 from "../components/Butterfly1";
+import Butterfly2 from "../components/Butterfly2";
+import Butterfly3 from "../components/Butterfly3";
+import Butterfly4 from "../components/Butterfly4";
+import Butterfly5 from "../components/Butterfly5";
+import Butterfly6 from "../components/Butterfly6";
+import Butterfly7 from "../components/Butterfly7";
 
 function HomePage() {
     return (
@@ -23,7 +30,13 @@ function HomePage() {
             <Tree/>
             <Content1/>
             <Elypse/>
-            <Butterfly/>
+            <Butterfly1/>
+            <Butterfly2/>
+            <Butterfly3/>
+            <Butterfly4/>
+            <Butterfly5/>
+            <Butterfly6/>
+            <Butterfly7/>
             <Stump/>
             <Axe/>
             <Text1/>
@@ -34,10 +47,10 @@ function HomePage() {
             <Toolbox/>
             <Content2/>
             <Flat/>
-            <Picture/>
+            <Picture2/>
             <Content3/>
             <Content4/>
-            
+            <Content5/>
 
             <ScrollBar/>
         </>

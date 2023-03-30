@@ -121,3 +121,12 @@
     58%, 60% {transform:translate3d(0,-100%,0);}
     73%, 100% {transform:translate3d(0,-100%,0);}
 }
+
+#content3_4 {
+    font-size: 45px;
+    line-height: 50px;
+}
+
+#content3_4::first-letter {
+    font-size: 52px;
+}

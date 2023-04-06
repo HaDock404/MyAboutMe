@@ -11,7 +11,7 @@ import Board from "../components/Board";
 import Machine from "../components/Machine";
 import Toolbox from "../components/Toolbox";
 import Content2 from "../components/Content2";
-import Flat from "../components/Flat";
+import Flat2 from "../components/Flat2";
 import Picture2 from "../components/Picture2";
 import Content3 from "../components/Content3";
 import Content4 from "../components/Content4";
@@ -46,12 +46,13 @@ function HomePage() {
             <Machine/>
             <Toolbox/>
             <Content2/>
-            <Flat/>
+
             <Picture2/>
             <Content3/>
             <Content4/>
+            <Flat2/>
             <Content5/>
-
+            
             <ScrollBar/>
         </>
     )

@@ -10,7 +10,7 @@ function Stage2() {
             <rect y="75%" width="100%" height="25%" fill="#5C5E6F"/>
             <rect y="70%" width="100%" height="5%" fill="#A5A5A5"/>
             <g>
-                <rect id="testStroke" x="30%" y="16%" width="15%" height="35%" stroke="#A5A5A5" stroke-width="1%"/>
+                <rect id="testStroke" x="30%" y="16%" width="15%" height="35%" stroke="#A5A5A5" strokeWidth="1%"/>
             </g>
             <defs>
                 <clipPath id="clip0_178_2">

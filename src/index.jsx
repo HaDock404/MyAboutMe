@@ -17,7 +17,7 @@ root.render(
   <BrowserRouter>
     <GlobalStyle/>
     <Routes>
-      <Route path="/" element={<HomePage />}/>
+      <Route path="/Home" element={<HomePage />}/>
     </Routes>
   </BrowserRouter>,
 );

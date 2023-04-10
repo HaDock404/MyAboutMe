@@ -2,7 +2,7 @@ import '../styles/board.css'
 
 function Board() {
     return (
-        <svg class="board" width="340" height="226" viewBox="0 0 340 226" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg className="board" width="340" height="226" viewBox="0 0 340 226" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g id="BoardFinal">
             <g id="Rectangle 68">
                 <mask id="path-1-inside-1_188_430" fill="white">

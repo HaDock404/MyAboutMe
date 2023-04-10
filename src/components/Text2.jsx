@@ -2,8 +2,8 @@ import '../styles/text2.css'
 
 function Text2() {
     return (
-        <div class="text2">
-            <div class="glitch-trans"  data-glitch="glitch">
+        <div className="text2">
+            <div className="glitch-trans"  data-glitch="glitch">
                 a website to scroll down slowly.
             </div>
             <div id="text2_sentence2">

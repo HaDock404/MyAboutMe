@@ -2,7 +2,7 @@ import '../styles/flat.css'
 
 function Flat() {
     return (
-            <svg class="flat" width="760" height="769" viewBox="0 0 760 769" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg className="flat" width="760" height="769" viewBox="0 0 760 769" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="flatSVG">
                 <path id="Rectangle 258" d="M125 26H739.5V603H125V26Z" fill="#F1EEEE"/>
                 <path id="Rectangle 259" d="M142.84 603H739.5L641 731H44L142.84 603Z" fill="#E3BD6A"/>

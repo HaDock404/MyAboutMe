@@ -2,7 +2,7 @@ import '../styles/picture.css'
 
 function Picture() {
     return (
-            <svg class="pictureSVG" width="1512" height="982" viewBox="0 0 1512 982" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg className="pictureSVG" width="1512" height="982" viewBox="0 0 1512 982" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="pictureSVG">
                 <rect id="Rectangle_246" y="1" width="1512" height="847" fill="#80A9F9"/>
                 <rect id="bg4x" y="1" width="1512" height="847" fill="#80A9F9"/>
@@ -953,13 +953,13 @@ function Picture() {
                     <rect id="Rectangle 195" x="849" y="794" width="42" height="3" fill="#2B7D7B"/>
                     <rect id="Rectangle 211" x="868" y="811" width="54" height="3" transform="rotate(-90 868 811)" fill="#2B7D7B"/>
                     <g id="effetlumineux_2" filter="url(#filter1_d_204_2713)">
-                        <circle class="effetlumineuxx" cx="1368" cy="822.5" r="3.5" fill="#FBFF41"/>
+                        <circle className="effetlumineuxx" cx="1368" cy="822.5" r="3.5" fill="#FBFF41"/>
                     </g>
                     <g id="effetlumineux" filter="url(#filter0_d_204_2713)">
-                        <circle class="effetlumineuxx" cx="1059" cy="822.5" r="3.5" fill="#FBFF41"/>
+                        <circle className="effetlumineuxx" cx="1059" cy="822.5" r="3.5" fill="#FBFF41"/>
                     </g>
-                    <path class="vitrelumiere" d="M1050 813H1066L1062 833H1054L1050 813Z" fill="#C8E9F0"/>
-                    <path class="vitrelumiere" d="M1359 813H1375L1371 833H1363L1359 813Z" fill="#C8E9F0"/>
+                    <path className="vitrelumiere" d="M1050 813H1066L1062 833H1054L1050 813Z" fill="#C8E9F0"/>
+                    <path className="vitrelumiere" d="M1359 813H1375L1371 833H1363L1359 813Z" fill="#C8E9F0"/>
                     <rect id="Rectangle 437" y="1" width="25" height="981" fill="white"/>
                     <rect id="Rectangle 438" x="1488" y="3" width="25" height="981" fill="white"/>
                     <rect id="Rectangle 439" y="25" width="25" height="1512" transform="rotate(-90 0 25)" fill="white"/>

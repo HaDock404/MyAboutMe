@@ -138,6 +138,17 @@
     font-size: 65px;
 }
 
+#content4_3 {
+    font-size: 35px;
+    line-height: 40px;
+}
+
+#content4_3::first-letter {
+    color: #dffa47;
+    text-shadow: -6px 6px 0 #eb5959;
+    font-size: 65px;
+}
+
 #content4_5::first-letter {
     color: #dffa47;
     text-shadow: -6px 6px 0 #eb5959;
@@ -284,6 +295,17 @@
         text-shadow: -6px 6px 0 #eb5959;
         font-size: 65px;
     }
+
+    #content4_3 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    
+    #content4_3::first-letter {
+        color: #dffa47;
+        text-shadow: -6px 6px 0 #eb5959;
+        font-size: 65px;
+    }
     
     #content4_5::first-letter {
         color: #dffa47;
@@ -422,14 +444,25 @@
     }
     
     #content4_2 {
-        font-size: 35px;
+        font-size: 25px;
         line-height: 40px;
     }
     
     #content4_2::first-letter {
         color: #dffa47;
         text-shadow: -6px 6px 0 #eb5959;
-        font-size: 65px;
+        font-size: 50px;
+    }
+    
+    #content4_3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    
+    #content4_3::first-letter {
+        color: #dffa47;
+        text-shadow: -6px 6px 0 #eb5959;
+        font-size: 40px;
     }
     
     #content4_5::first-letter {
@@ -480,7 +513,7 @@
     }
       
     .content4__container__list__item {
-        line-height:60px;
+        line-height:40px;
         margin:0;
         display: block;
         flex-direction: row;
@@ -569,19 +602,35 @@
     }
     
     #content4_2 {
-        font-size: 35px;
-        line-height: 40px;
+        font-size: 20px;
+        line-height: 30px;
     }
     
     #content4_2::first-letter {
         color: #dffa47;
         text-shadow: -6px 6px 0 #eb5959;
-        font-size: 65px;
+        font-size: 40px;
+    }
+
+    #content4_3 {
+        font-size: 20px;
+        line-height: 30px;
     }
     
+    #content4_3::first-letter {
+        color: #dffa47;
+        text-shadow: -6px 6px 0 #eb5959;
+        font-size: 40px;
+    }
+    
+    #content4_5 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
     #content4_5::first-letter {
         color: #dffa47;
         text-shadow: -6px 6px 0 #eb5959;
-        font-size: 65px;
+        font-size: 50px;
     }
 }

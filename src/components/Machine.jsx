@@ -2,12 +2,12 @@ import '../styles/machine.css'
 
 function Machine() {
     return (
-        <svg class="machine" width="601" height="338" viewBox="0 0 601 338" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg className="machine" width="601" height="338" viewBox="0 0 601 338" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g id="machineSVG">
             <ellipse id="Ellipse 7" cx="300.5" cy="321.5" rx="300.5" ry="16.5" fill="#6D737E"/>
             <rect id="Rectangle 56" x="100" y="34" width="19" height="28" rx="9.5" fill="#FEED53" fill-opacity="0.83"/>
             <rect id="Rectangle 57" x="61" y="34" width="19" height="28" rx="9.5" fill="#FEED53" fill-opacity="0.83"/>
-            <rect class="alerte" id="alerte" x="61" y="34" width="19" height="28" rx="9.5" fill="#F71717" fill-opacity="0.83"/>
+            <rect className="alerte" id="alerte" x="61" y="34" width="19" height="28" rx="9.5" fill="#F71717" fill-opacity="0.83"/>
             <rect id="Rectangle 19" x="61" y="197" width="139" height="123" fill="#ACA8C1"/>
             <rect id="box1" x="144" y="154" width="61" height="42" rx="7" fill="#FB9494" stroke="#E64848" stroke-width="4"/>
             <rect id="box2" x="144" y="154" width="61" height="42" rx="7" fill="#CE94FB" stroke="#BC48E6" stroke-width="4"/>

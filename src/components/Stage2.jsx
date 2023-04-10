@@ -2,7 +2,7 @@ import '../styles/stage2.css'
 
 function Stage2() {
     return (
-        <svg class="stage2" width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg className="stage2" width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect id="topStage2" width="100%" height="16.5%" fill="#C3C3C3"/>
             <rect id='rightStage2' x="45%" y="16%" width="100%" height="35%" fill="#C3C3C3"/>
             <rect id='leftStage2' y="16%" width="30%" height="35%" fill="#C3C3C3"/>

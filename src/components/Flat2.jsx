@@ -2,7 +2,7 @@ import '../styles/flat2.css'
 
 function Flat2() {
     return (
-        <svg class="flat" width="760" height="769" viewBox="0 0 760 769" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg className="flat" width="760" height="769" viewBox="0 0 760 769" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g id="flatSVG">
             <path id="Rectangle 258" d="M125 26H739.5V603H125V26Z" fill="#F1EEEE"/>
             <path id="Rectangle 259" d="M142.84 603H739.5L641 731H44L142.84 603Z" fill="#E3BD6A"/>
@@ -591,52 +591,52 @@ function Flat2() {
             <rect id="Rectangle 337" x="356" y="293" width="17" height="3" fill="#828282"/>
             <rect id="Rectangle 338" x="356" y="299" width="21" height="3" fill="#828282"/>
             <rect id="Rectangle 339" x="356" y="305" width="23" height="3" fill="#828282"/>
-            <rect class="line1" x="399" y="282" width="7" height="2" rx="1" fill="#18B6FF"/>
-            <rect class="line9" x="399" y="324" width="7" height="2" rx="1" fill="#18B6FF"/>
-            <rect class="line5" x="399" y="302" width="7" height="2" rx="1" fill="#18B6FF"/>
-            <rect class="line18" x="399" y="379" width="7" height="2" rx="1" fill="#18B6FF"/>
-            <rect class="line14" x="399" y="355" width="7" height="2" rx="1" fill="#18B6FF"/>
-            <rect class="line13" x="399" y="349" width="7" height="2" rx="1" fill="#18B6FF"/>
-            <rect class="line1" x="407" y="282" width="10" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line14" x="407" y="355" width="10" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line16" x="410" y="366" width="10" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line9" x="409" y="324" width="17" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line4" x="413" y="294" width="10" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line12" x="410" y="340" width="8" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line3" x="413" y="290" width="12" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line11" x="410" y="335" width="12" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line6" x="410" y="308" width="9" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line19" x="406" y="385" width="9" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line8" x="410" y="316" width="10" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line21" x="406" y="395" width="10" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line7" x="410" y="312" width="6" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line20" x="406" y="390" width="6" height="2" rx="1" fill="#1BEB9E"/>
-            <rect class="line2" x="406" y="286" width="39" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line2" x="450" y="286" width="39" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line10" x="446" y="330" width="39" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line3" x="433" y="290" width="13" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line11" x="430" y="335" width="13" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line6" x="421" y="308" width="13" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line21" x="418" y="385" width="13" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line20" x="414" y="390" width="13" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line13" x="418" y="349" width="20" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line15" x="410" y="361" width="31" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line16" x="422" y="366" width="31" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line17" x="416" y="371" width="31" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line10" x="411" y="330" width="31" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line7" x="419" y="312" width="18" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line8" x="421" y="316" width="15" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line21" x="419" y="395" width="15" height="2" rx="1" fill="#B462FF"/>
-            <rect class="line2" x="494" y="286" width="39" height="2" rx="1" fill="#B462FF"/>
-            <path class="line5" d="M409 303C409 302.448 409.448 302 410 302H414C414.552 302 415 302.448 415 303V303C415 303.552 414.552 304 414 304H410C409.448 304 409 303.552 409 303V303Z" fill="#FF9528"/>
-            <path class="line18" d="M409 380C409 379.448 409.448 379 410 379H414C414.552 379 415 379.448 415 380V380C415 380.552 414.552 381 414 381H410C409.448 381 409 380.552 409 380V380Z" fill="#FF9528"/>
-            <path class="line14" d="M419 356C419 355.448 419.448 355 420 355H424C424.552 355 425 355.448 425 356V356C425 356.552 424.552 357 424 357H420C419.448 357 419 356.552 419 356V356Z" fill="#FF9528"/>
-            <path class="line13" d="M409 350C409 349.448 409.448 349 410 349H414C414.552 349 415 349.448 415 350V350C415 350.552 414.552 351 414 351H410C409.448 351 409 350.552 409 350V350Z" fill="#FF9528"/>
-            <path class="line9" d="M428 325C428 324.448 428.448 324 429 324H433C433.552 324 434 324.448 434 325V325C434 325.552 433.552 326 433 326H429C428.448 326 428 325.552 428 325V325Z" fill="#FF9528"/>
-            <path class="line4" d="M426 295C426 294.448 426.448 294 427 294H428C428.552 294 429 294.448 429 295V295C429 295.552 428.552 296 428 296H427C426.448 296 426 295.552 426 295V295Z" fill="#FF9528"/>
-            <path class="line3" d="M427 291C427 290.448 427.448 290 428 290H429C429.552 290 430 290.448 430 291V291C430 291.552 429.552 292 429 292H428C427.448 292 427 291.552 427 291V291Z" fill="#FF9528"/>
-            <path class="line11" d="M425 336C425 335.448 425.448 335 426 335H427C427.552 335 428 335.448 428 336V336C428 336.552 427.552 337 427 337H426C425.448 337 425 336.552 425 336V336Z" fill="#FF9528"/>
-            <path class="line12" d="M421 341C421 340.448 421.448 340 422 340H423C423.552 340 424 340.448 424 341V341C424 341.552 423.552 342 423 342H422C421.448 342 421 341.552 421 341V341Z" fill="#FF9528"/>
+            <rect className="line1" x="399" y="282" width="7" height="2" rx="1" fill="#18B6FF"/>
+            <rect className="line9" x="399" y="324" width="7" height="2" rx="1" fill="#18B6FF"/>
+            <rect className="line5" x="399" y="302" width="7" height="2" rx="1" fill="#18B6FF"/>
+            <rect className="line18" x="399" y="379" width="7" height="2" rx="1" fill="#18B6FF"/>
+            <rect className="line14" x="399" y="355" width="7" height="2" rx="1" fill="#18B6FF"/>
+            <rect className="line13" x="399" y="349" width="7" height="2" rx="1" fill="#18B6FF"/>
+            <rect className="line1" x="407" y="282" width="10" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line14" x="407" y="355" width="10" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line16" x="410" y="366" width="10" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line9" x="409" y="324" width="17" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line4" x="413" y="294" width="10" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line12" x="410" y="340" width="8" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line3" x="413" y="290" width="12" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line11" x="410" y="335" width="12" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line6" x="410" y="308" width="9" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line19" x="406" y="385" width="9" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line8" x="410" y="316" width="10" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line21" x="406" y="395" width="10" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line7" x="410" y="312" width="6" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line20" x="406" y="390" width="6" height="2" rx="1" fill="#1BEB9E"/>
+            <rect className="line2" x="406" y="286" width="39" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line2" x="450" y="286" width="39" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line10" x="446" y="330" width="39" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line3" x="433" y="290" width="13" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line11" x="430" y="335" width="13" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line6" x="421" y="308" width="13" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line21" x="418" y="385" width="13" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line20" x="414" y="390" width="13" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line13" x="418" y="349" width="20" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line15" x="410" y="361" width="31" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line16" x="422" y="366" width="31" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line17" x="416" y="371" width="31" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line10" x="411" y="330" width="31" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line7" x="419" y="312" width="18" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line8" x="421" y="316" width="15" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line21" x="419" y="395" width="15" height="2" rx="1" fill="#B462FF"/>
+            <rect className="line2" x="494" y="286" width="39" height="2" rx="1" fill="#B462FF"/>
+            <path className="line5" d="M409 303C409 302.448 409.448 302 410 302H414C414.552 302 415 302.448 415 303V303C415 303.552 414.552 304 414 304H410C409.448 304 409 303.552 409 303V303Z" fill="#FF9528"/>
+            <path className="line18" d="M409 380C409 379.448 409.448 379 410 379H414C414.552 379 415 379.448 415 380V380C415 380.552 414.552 381 414 381H410C409.448 381 409 380.552 409 380V380Z" fill="#FF9528"/>
+            <path className="line14" d="M419 356C419 355.448 419.448 355 420 355H424C424.552 355 425 355.448 425 356V356C425 356.552 424.552 357 424 357H420C419.448 357 419 356.552 419 356V356Z" fill="#FF9528"/>
+            <path className="line13" d="M409 350C409 349.448 409.448 349 410 349H414C414.552 349 415 349.448 415 350V350C415 350.552 414.552 351 414 351H410C409.448 351 409 350.552 409 350V350Z" fill="#FF9528"/>
+            <path className="line9" d="M428 325C428 324.448 428.448 324 429 324H433C433.552 324 434 324.448 434 325V325C434 325.552 433.552 326 433 326H429C428.448 326 428 325.552 428 325V325Z" fill="#FF9528"/>
+            <path className="line4" d="M426 295C426 294.448 426.448 294 427 294H428C428.552 294 429 294.448 429 295V295C429 295.552 428.552 296 428 296H427C426.448 296 426 295.552 426 295V295Z" fill="#FF9528"/>
+            <path className="line3" d="M427 291C427 290.448 427.448 290 428 290H429C429.552 290 430 290.448 430 291V291C430 291.552 429.552 292 429 292H428C427.448 292 427 291.552 427 291V291Z" fill="#FF9528"/>
+            <path className="line11" d="M425 336C425 335.448 425.448 335 426 335H427C427.552 335 428 335.448 428 336V336C428 336.552 427.552 337 427 337H426C425.448 337 425 336.552 425 336V336Z" fill="#FF9528"/>
+            <path className="line12" d="M421 341C421 340.448 421.448 340 422 340H423C423.552 340 424 340.448 424 341V341C424 341.552 423.552 342 423 342H422C421.448 342 421 341.552 421 341V341Z" fill="#FF9528"/>
             <g id="mailSVG">
             <rect id="Mail" x="352" y="269" width="233" height="141" fill="#D9D9D9"/>
             <g id="lettermail" onClick={() => console.log("ok")}>

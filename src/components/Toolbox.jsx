@@ -2,7 +2,7 @@ import '../styles/toolbox.css'
 
 function Toolbox() {
     return (
-            <svg class="toolbox" width="431" height="526" viewBox="0 0 431 526" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg className="toolbox" width="431" height="526" viewBox="0 0 431 526" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <ellipse cx="219.5" cy="487" rx="211.5" ry="39" fill="#6D737E"/>
                 <rect x="74" y="2" width="301" height="32" fill="#AD0000"/>
                 <rect x="22.1572" y="57" width="100.351" height="14" transform="rotate(46.5117 22.1572 57)" fill="#AD0000"/>
